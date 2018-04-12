@@ -1,0 +1,89 @@
+.generalFrame {
+    text-align: center;
+    border: 1px solid black;
+    width: 0 auto;
+    height: 700px;
+    margin: 0 auto;
+    background: rgb(230, 230, 230);
+  
+}
+.leftColumn {
+   
+    border: 2px solid black;
+    width: 200px;
+    height: 700px;
+    margin: 10px 10px;
+    margin-bottom: 10px;
+    background: rgb(230, 230, 230);
+    display: inline-block;
+    
+}
+
+.leftLabel {
+    vertical-align: top;
+    color: black;
+}
+.rightColumn {
+   
+    display: inline-block;
+    border: 2px solid black;
+    width: 820px;
+    height: 700px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background: rgb(230, 230, 230);
+    
+}
+.avatar {
+    
+    margin: 10px 10px;
+    width: 200px; 
+    height: 200px;
+    border-radius: 3px;
+}
+.avatarBlok {
+    float: left;
+    display: block;
+    margin: 10px 10px;
+    width: 230px; 
+    height: 272px;
+    background: white;
+    border-radius: 3px;
+}
+.edit {
+    float: left;
+    width: 157px; 
+    height: 30px;
+    border: 0;
+    padding: 0;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    background: rgb(230, 230, 230);
+    color: steelblue;
+}
+.statistics {
+    float: left;
+    width: 36px; 
+    height: 30px;
+    border: 0;
+    padding: 0;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    background: rgb(230, 230, 230);
+    color: steelblue;
+    
+}
+.generalInformation {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 550px;
+    height: 210px;
+    background: white;
+    border-radius: 3px;
+}
